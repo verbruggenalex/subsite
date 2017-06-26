@@ -1,4 +1,3 @@
-================================================================================
 # Subsite Starterkit Template
 
 This is a simple template package for Composer that allows the ec-europa/ssk to
@@ -7,7 +6,7 @@ and for new projects to set up their initial repository structure.
 
 The command to be executed is:
 ```
-composer create-project ec-europa/subsite foldername dev-master
+composer create-project verbruggenalex/subsite foldername dev-master
 ```
 
 This command will download the template repository and run the composer scripts
